@@ -1,3 +1,4 @@
 const driver = 'bob';
 
-function console.log("This code was called")
+console.log("This code was called")
+
